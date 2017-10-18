@@ -1,0 +1,28 @@
+{
+  "name": "angular-library-name",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christopherthielen/angular2-library-name"
+  },
+  "author": {
+    "name": "Jurgen Van de Moere",
+    "email": "jurgen.van.de.moere@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopherthielen/angular2-library-name/issues"
+  },
+  "main": "angular-library-name.umd.js",
+  "module": "angular-library-name.js",
+  "jsnext:main": "angular-library-name.js",
+  "typings": "angular-library-name.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
